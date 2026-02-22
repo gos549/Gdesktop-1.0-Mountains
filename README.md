@@ -1,4 +1,4 @@
-Wersja 1.0
+Wersja 1.0</br>
 -Dock
 -Notes
 -Asystent Elisa (testowa wersja)
